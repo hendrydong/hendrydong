@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Hanze Dong, a PhD student in Hong Kong 🇭🇰.
+I'm Hanze Dong.
 
 I work on machine learning research.
 
